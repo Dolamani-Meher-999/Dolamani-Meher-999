@@ -8,9 +8,8 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dolamani-meher/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dolamani-meher-ab6068271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/DolamaniMeher"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/dolamani"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
@@ -24,7 +23,7 @@ Passionate about creating responsive, user-friendly web interfaces and committed
 - 🔭 I'm currently working on **Master Of Keys**
 - 🌱 I'm currently learning **Node.js, Express.js, MongoDB**
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js, TailwindCSS**
-- 📫 How to reach me: **dolamani@example.com** (replace with your email)
+- 📫 How to reach me: **dolamanimeher999@gmail.com**
 - 📍 Location: **Bhubaneswar, Odisha, India**
 
 ---
@@ -50,20 +49,11 @@ Passionate about creating responsive, user-friendly web interfaces and committed
 
 ---
 
-## 📌 Featured Project
-
-### 🔑 Master Of Keys
-> Key management system with modern UI and robust functionality
-- **Tech:** React.js, TailwindCSS, Node.js, MongoDB
-- [View Project](https://github.com/DolamaniMeher/master-of-keys) • [Live Demo](https://pranavs-portfolio.vercel.app/)
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://pranavs-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:dolamani@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dolamanimeher999@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/dolamani-meher-ab6068271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
